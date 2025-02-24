@@ -14,3 +14,7 @@ AI-powered chatbot for students using **Google Gemini AI, LangChain & Streamlit*
 ✅ **Context-aware** answers using LangChain  
 ✅ Hosted **for free** on Hugging Face Spaces  
 
+
+
+![image](https://github.com/user-attachments/assets/a7589c56-87d2-4f8e-8e89-09b3552ae595)
+
